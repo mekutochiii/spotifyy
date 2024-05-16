@@ -1,0 +1,12 @@
+{
+  "name": "ipt-main",
+  "version": "1.0.0",
+  "description": "![image](https://github.com/Joneriehahahaha/IPT-Spotify/blob/main/438069815_762090616013474_4139456549786851921_n.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
